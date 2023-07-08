@@ -1218,3 +1218,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-17.05.52:809][ 82]LogSlate: Window 'Message Log' being destroyed
 [2023.07.08-17.05.52:812][ 82]LogSlate: Window 'Message Log' being destroyed
 [2023.07.08-17.05.53:616][158]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.08-17.08.08:443][907]LogDerivedDataCache: C:/Users/M1RoR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:21.056 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 11468 files in 12987 folders with total size 484 MiB.
